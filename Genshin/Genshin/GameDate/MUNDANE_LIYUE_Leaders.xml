@@ -3,5 +3,71 @@
 <!-- Author: Nathcuya Alexander -->
 <!-- DateCreated: 11/5/2023 4:09:21 PM -->
 <GameData>
-
+	<Types>
+		<Row Type="LEADER_MUNDANE_LIYUE_MORAX" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_AGENDA_" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_AGENDA_" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_" Kind="KIND_TRAIT"/>
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Name="LOC_LEADER_MUNDANE_LIYUE_MORAX_NAME" InheritFrom="LEADER_DEFAULT" Sex="Male" SceneLayers="4"/>
+	</Leaders>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_MUNDANE_LIYUE_MORAX_QUOTE"/>
+	</LeaderQuotes>
+	<Traits>
+		<Row TraitType="TRAIT_AGENDA_" Name="LOC_TRAIT_AGENDA_" Description="LOC_TRAIT_AGENDA_"/>
+		<Row TraitType="TRAIT_AGENDA_" Name="LOC_TRAIT_AGENDA_" Description="LOC_TRAIT_AGENDA_"/>
+		<Row TraitType="TRAIT_LEADER_" Name="LOC_TRAIT_LEADER_" Description="LOC_TRAIT_LEADER_"/>
+		<Row TraitType="TRAIT_LEADER_" Name="LOC_TRAIT_LEADER_" Description="LOC_TRAIT_LEADER_"/>
+		<Row TraitType="TRAIT_LEADER_" Name="LOC_TRAIT_LEADER_" Description="LOC_TRAIT_LEADER_"/>
+	</Traits>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" TraitType="TRAIT_LEADER_"/>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" TraitType="TRAIT_LEADER_"/>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" TraitType="TRAIT_LEADER_"/>
+	</LeaderTraits>
+	<Agendas>
+		<Row AgendaType="AGENDA_" Name="LOC_AGENDA_" Description="LOC_AGENDA_"/>
+		<Row AgendaType="AGENDA_" Name="LOC_AGENDA_" Description="LOC_AGENDA_"/>
+	</Agendas>
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" AgendaType="AGENDA_"/>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" AgendaType="AGENDA_"/>
+	</HistoricalAgendas>
+	<AgendaTraits>
+		<Row AgendaType="AGENDA_" TraitType="TRAIT_AGENDA_"/>
+		<Row AgendaType="AGENDA_" TraitType="TRAIT_AGENDA_"/>
+	</AgendaTraits>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_MUNDANE_LIYUE_MORAX_PRIMARY</Type>
+			<Color>255,255,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_MUNDANE_LIYUE_MORAX_SECONDARY</Type>
+			<Color>170,85,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_MUNDANE_LIYUE_MORAX_TEXT</Type>
+			<Color>0,0,0,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_MUNDANE_LIYUE_MORAX</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_MUNDANE_LIYUE_MORAX_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_MUNDANE_LIYUE_MORAX_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_MUNDANE_LIYUE_MORAX_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_MUNDANE_LIYUE_MORAX" ForegroundImage="IMG_LOADING_FOREGROUND_MUNDANE_LIYUE" BackgroundImage="IMG_LOADING_BACKGROUND_MUNDANE_LIYUE" PlayDawnOfManAudio="1" EraText="LOC_ERA_MUNDANE_LIYUE" LeaderText="LOC_LOADING_INFO_LEADER_MUNDANE_LIYUE_MORAX"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_MUNDANE_LIYUE_MORAX" BackgroundImage="IMG_DIPLOMACY_BACKGROUND_MUNDANE_LIYUE_MORAX"/>
+	</DiplomacyInfo>
 </GameData>
