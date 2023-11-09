@@ -3,5 +3,97 @@
 <!-- Author: Nathcuya Alexander -->
 <!-- DateCreated: 11/5/2023 4:55:04 PM -->
 <GameData>
-
+	<Types>
+		<Row Type="CIVILIZATION_MUNDANE_LIYUE" Kind="KIND_CIVILIZATION"/>
+		<Row Type="TRAIT_CIVILIZATION_" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_" Kind="KIND_TRAIT"/>
+	</Types>
+	<Civilizations>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" Name="LOC_CIVILIZATION_MUNDANE_LIYUE_NAME" Description="LOC_CIVILIZATION_MUNDANE_LIYUE_DESCRIPTION" Adjective="LOC_CIVILIZATION_CIVILIZATION_MUNDANE_LIYUE_ADJECTIVE" RandomCityNameDepth="6" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" Ethnicity="ETHNICITY_ASIAN"/>
+	</Civilizations>
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" CapitalName="LOC_CITY_NAME_LIYUEGANG"/>
+	</CivilizationLeaders>
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_" Name="LOC_TRAIT_CIVILIZATION_" Description="LOC_TRAIT_CIVILIZATION_"/>
+		<Row TraitType="TRAIT_CIVILIZATION_" Name="LOC_TRAIT_CIVILIZATION_" Description="LOC_TRAIT_CIVILIZATION_"/>
+		<Row TraitType="TRAIT_CIVILIZATION_" Name="LOC_TRAIT_CIVILIZATION_" Description="LOC_TRAIT_CIVILIZATION_"/>
+	</Traits>
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" TraitType="TRAIT_CIVILIZATION_"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" TraitType="TRAIT_CIVILIZATION_"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" TraitType="TRAIT_CIVILIZATION_"/>
+	</CivilizationTraits>
+	<CivilizationInfo>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" Header="LOC_CIVINFO_HEADER_" Caption="LOC_CIVINFO_CAPTION_" SortIndex="10"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" Header="LOC_CIVINFO_HEADER_" Caption="LOC_CIVINFO_CAPTION_" SortIndex="20"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" Header="LOC_CIVINFO_HEADER_" Caption="LOC_CIVINFO_CAPTION_" SortIndex="30"/>
+	</CivilizationInfo>
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_GUILIYUAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_DUNYULING"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_DIHUAZHOU"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_MINGYUNZHEN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_QINGCEZHUANG"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_QINGXUPU"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_LINGJUGUAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_TIANHENGSHAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_CUIJUEPO"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_NANTIANMENG"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_TIANQIUGU"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_HUAGUANGLIN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_AOCANGSHAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_HULAOSHAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_HULAOSHAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_QINGYUNDING"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_JUEYUNJIAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_LUHUACHI"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_YAOGAUNGTAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CityName="LOC_CITY_NAME_WUWANGPO"/>
+	</CityNames>
+	<CivilizationCitizenNames>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_DAJIAO"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_JITONG"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_SISI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_XIAOZHAO" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_YINGGONG"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_QINGXING"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_PINGHAI"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_ZHANGSHUN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_JI"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_CHAONAN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_LIXIAOHU"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_LIXIAO"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_LICHUIZI"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_CHAOXI"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_LAOSUN"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_LAOGAO"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_WANGBANZI"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_CHUNSHUI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_QUQING" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_CHUYI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_JIANGZHOU" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_YA" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_LINLANTG" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" CitizenName="LOC_CITIZEN_NAME_GONGMING" Female="1"/>
+	</CivilizationCitizenNames>
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" Tier="1"/>
+	</StartBiasRivers>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" TerrainType="TERRAIN_PLAINS_MOUNTAIN" Tier=""/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" TerrainType="TERRAIN_COAST" Tier=""/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" TerrainType="TERRAIN_GRASS" Tier=""/>
+	</StartBiasTerrains>
+	<StartBiasFeatures>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" FeatureType="FEATURE_BARRIER_REEF" Tier=""/>
+	</StartBiasFeatures>
+	<StartBiasResources>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" ResourceType="RESOURCE_TEA" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" ResourceType="RESOURCE_STONE" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" ResourceType="RESOURCE_FISH" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" ResourceType="RESOURCE_IRON" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" ResourceType="RESOURCE_COPPER" Tier="3"/>
+	</StartBiasResources>
 </GameData>
