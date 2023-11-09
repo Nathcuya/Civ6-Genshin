@@ -3,5 +3,27 @@
 <!-- Author: Nathcuya Alexander -->
 <!-- DateCreated: 11/5/2023 5:28:49 PM -->
 <GameData>
-
+	<Players>
+		<Row CivilizationAbilityDescription="" CivilizationAbilityIcon="" CivilizationAbilityName="" CivilizationIcon="" CivilizationName="LOC_CIVILIZATION_MUNDANE_LIYUE_NAME" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderAbilityDescription="" LeaderAbilityIcon="" LeaderAbilityName="" LeaderIcon="" LeaderName="LOC_LEADER_MUNDANE_LIYUE_MORAX_NAME" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Portrait=""/>
+		<!-- Expansion 1 Support -->
+		<Row CivilizationAbilityDescription="" CivilizationAbilityIcon="" CivilizationAbilityName="" CivilizationIcon="" CivilizationName="LOC_CIVILIZATION_MUNDANE_LIYUE_NAME" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderAbilityDescription="" LeaderAbilityIcon="" LeaderAbilityName="" LeaderIcon="" LeaderName="LOC_LEADER_MUNDANE_LIYUE_MORAX_NAME" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Portrait="" Domain="Players:Expansion1_Players"/>
+		<!-- Expansion 2 Support -->
+		<Row CivilizationAbilityDescription="" CivilizationAbilityIcon="" CivilizationAbilityName="" CivilizationIcon="" CivilizationName="LOC_CIVILIZATION_MUNDANE_LIYUE_NAME" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderAbilityDescription="" LeaderAbilityIcon="" LeaderAbilityName="" LeaderIcon="" LeaderName="LOC_LEADER_MUNDANE_LIYUE_MORAX_NAME" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Portrait="" Domain="Players:Expansion2_Players"/>
+	</Players>
+	<PlayerItems>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="10"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="20"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="30"/>
+		<Row CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="40"/>
+		<!-- Expansion 1 Support -->
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="40"/>
+		<!-- Expansion 2 Support -->
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MUNDANE_LIYUE" LeaderType="LEADER_MUNDANE_LIYUE_MORAX" Type="" Name="LOC_" Description="LOC_" Icon="ICON_" SortIndex="40"/>
+	</PlayerItems>
 </GameData>
