@@ -423,10 +423,11 @@
 ## NEW CIVILIZATION
 
 ### The Seven Earthly Kingdoms
+
 - **Liyue**
-- ****
-- **稻妻**
 - **Mondstadt**
-- **枫丹**
-- **纳塔**
-- **至冬**
+- **Inazuma**
+- **Sumeru**
+- **Fontaine**
+- **Natlan**
+- **Snezhnaya**
