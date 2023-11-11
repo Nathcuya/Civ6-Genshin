@@ -1,8 +1,9 @@
 # Civ6-Genshin MOD
 
 ---
+# CHINESE
 
-## 新文明创建
+## 新文明
 
 ### 尘世七国
 - **璃月**
@@ -414,3 +415,18 @@
 文化
 **特色能力**
 **宗主国加成**
+
+---
+---
+# ENGLISH
+
+## NEW CIVILIZATION
+
+### The Seven Earthly Kingdoms
+- **Liyue**
+- ****
+- **稻妻**
+- **Mondstadt**
+- **枫丹**
+- **纳塔**
+- **至冬**
