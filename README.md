@@ -432,37 +432,37 @@
 - **Natlan**
 - **Snezhnaya**
 
-### 魔神政权-城邦
-- **烈风高塔**
-- **漩涡神国**
-- **奔狼领土**
-- **赤色沙海**
-- **地中之盐**
-- **旧日海祇**
-- **雾中迷岛**
-- **无忧乐土**
+### Devil's Regime - City States
+- **Gale Tower**
+- **Maelstrom Kingdom of God**
+- **Wolves on the Run territory**
+- **The Red Sand Sea**
+- **Salt in the earth**
+- **The Old Sea Spirit**
+- **The island of fog**
+- **land of ease and joy**
 
-### 失落旧土
+### Lost Old Soil
 - **坎瑞亚**
 - **白夜国**
-- **雪葬之国**
-- **谐律帝国**
+- **Land of the Snow Burial**
+- **Harmonic Empire**
 
 ---
 
 
-### 伟人
-*有七种伟人：大艺术家（作家或大音乐家）、大工程师、大商人、大科学家、大预言家、海军统帅和大将军。*
-#### 大艺术家
-- **行秋**(作家)
-- **云堇**(戏剧作家)
-- **芭芭拉**(音乐家)
-- **妮露**(舞蹈家)
+### Great
+*There are seven kinds of great men: great artists (writers or great musicians), great engineers, great businessmen, great scientists, great prophets, naval commanders, and great generals.*
+#### Great artist
+- **Xingqiu** (Writer)
+- **Yun Jin** (Drama Writer)
+- **Barbara** (Musician)
+- **Nilou** (Dancer)
 
-#### 大工程师
-- **卡维**(建筑师)
-- **米卡**(测绘师)
-- **宵宫**
+#### Graduate Engineer
+- **Kaveh**(Architects)
+- **Mika**(Surveyor)
+- **Yoimiya**
 
 #### 大商人
 - **多莉**
