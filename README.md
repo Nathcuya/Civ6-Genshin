@@ -464,46 +464,46 @@
 - **Mika**(Surveyor)
 - **Yoimiya**
 
-#### 大商人
+#### Big businessman
 - **多莉**
 
-#### 大科学家
+#### Great scientists
 - **砂糖**
 - **阿贝多**
 - **丽莎**
 - **珐露珊**
 
-#### 大预言家
+#### Great Prophet
 - **芭芭拉**(西风教团牧师)
 - **珊瑚宫心海**(现人神巫女)
 - **烟绯**(律师)
 
-#### 海军统帅
+#### Commander-in-Chief of the Navy
 - **北斗**
 - **五郎**
 - **申鹤**
 
-#### 大将军
+#### Great General
 - **凯亚**
 - **魈**
 - **安柏**
 - **迪希雅**
 
 
-*待补充*
+*To be added*
 
 ---
 
-## 文明详细内容
+## Civilization Details
 
-### 璃月
-#### 领袖
-- 岩王帝君-**尘世闲游**-摩拉克斯
-    - **特色能力**
-        **匪石弗转**:"韬玉之石,可明八荒;灿若天星,纵横无双."摩拉克斯治下城市中每个回合每有一个区域未遭到破坏,则根据未被破坏区域的数量获得金币,科技值,文化值和生产力.
-    - **议程**
-        **坚名约束**:喜欢信守盟约的国家,讨厌背弃盟约的国家.
-    - **宗教**
+### Liyue
+#### Leaders
+- Emperor of the Rock King-**尘世闲游**-Morax
+    - **Featured Abilities**
+        **Bandit stone turns**:"The stone of Towers of Jade is the light of the world, and the star of the heavens is the light of the world." For each turn that an area of a Morax city remains untouched, it gains gold, technology, culture, and productivity based on the number of untouched areas.
+    - **Agenda**
+        **Firm name constraints**:Like countries that keep their covenants, hate countries that break them.
+    - **Religions**
         
     
 #### 总督
