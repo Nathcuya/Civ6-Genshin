@@ -552,7 +552,7 @@
 
 #### Graduate Engineer
 - **Kaveh**(Architects)
-     - **激活效果**:为奇观建设赠予500点生产力（2次数）.
+     - **激活效果**:Grant 500 Productivity Points to Wonder Building (2 times).
 - **Mika**(Surveyor)
     - **激活效果**:立即在该区域建造工厂和工作坊（1次数）;工厂+2生产力.
 - **Yoimiya**(Pyrotechnician)
