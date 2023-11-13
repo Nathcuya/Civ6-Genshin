@@ -552,7 +552,7 @@
 
 #### Graduate Engineer
 - **Kaveh**(Architects)
-     - **激活效果**:Grant 500 Productivity Points to Wonder Building (2 times).
+     - **Activate the effect**:Grant 500 Productivity Points to Wonder Building (2 times).
 - **Mika**(Surveyor)
     - **Activate the effect**:Immediately build factories and workshops in the area (1 time); Factory +2 Productivity.
 - **Yoimiya**(Pyrotechnician)
