@@ -544,7 +544,7 @@
 - **Xingqiu** (Writer)
     - **巨作**:《沉秋拾剑录》,《古华歌诀》
 - **Yun Jin** (Drama Writer)
-    - **巨作**:《神女劈观》,《走雪》
+    - **Masterpiece**:《神女劈观》,《走雪》
 - **Barbara** (Musician) 
     - **Masterpiece**:《闪耀协奏》,《纯真羁绊》
 - **Nilou** (Dancer)
