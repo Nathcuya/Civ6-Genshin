@@ -554,7 +554,7 @@
 - **Kaveh**(Architects)
      - **激活效果**:Grant 500 Productivity Points to Wonder Building (2 times).
 - **Mika**(Surveyor)
-    - **激活效果**:Immediately build factories and workshops in the area (1 time); Factory +2 Productivity.
+    - **Activate the effect**:Immediately build factories and workshops in the area (1 time); Factory +2 Productivity.
 - **Yoimiya**(Pyrotechnician)
      - **Activate the effect**:All cells in the city + 2 charms (1 time).
 
