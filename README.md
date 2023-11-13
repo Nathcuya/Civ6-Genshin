@@ -546,7 +546,7 @@
 - **Yun Jin** (Drama Writer)
     - **巨作**:《神女劈观》,《走雪》
 - **Barbara** (Musician) 
-    - **巨作**:《闪耀协奏》,《纯真羁绊》
+    - **Masterpiece**:《闪耀协奏》,《纯真羁绊》
 - **Nilou** (Dancer)
     - **Masterpiece**:《折旋落英之庭》,《翩舞永世之梦》
 
