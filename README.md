@@ -542,7 +542,9 @@
 *There are seven kinds of great men: great artists (writers or great musicians), great engineers, great businessmen, great scientists, great prophets, naval commanders, and great generals.*
 #### Great artist
 - **Xingqiu** (Writer)
+    - **巨作**:《沉秋拾剑录》,《古华歌诀》
 - **Yun Jin** (Drama Writer)
+    - **巨作**:《神女劈观》,《走雪》
 - **Barbara** (Musician)
 - **Nilou** (Dancer)
 
