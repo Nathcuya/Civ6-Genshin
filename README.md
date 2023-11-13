@@ -556,7 +556,7 @@
 - **Mika**(Surveyor)
     - **激活效果**:Immediately build factories and workshops in the area (1 time); Factory +2 Productivity.
 - **Yoimiya**(Pyrotechnician)
-     - **激活效果**:All cells in the city + 2 charms (1 time).
+     - **Activate the effect**:All cells in the city + 2 charms (1 time).
 
 #### Big businessman
 - **多莉**
