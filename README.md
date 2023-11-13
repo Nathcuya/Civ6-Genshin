@@ -548,7 +548,7 @@
 - **Barbara** (Musician) 
     - **巨作**:《闪耀协奏》,《纯真羁绊》
 - **Nilou** (Dancer)
-    - **巨作**:《折旋落英之庭》,《翩舞永世之梦》
+    - **Masterpiece**:《折旋落英之庭》,《翩舞永世之梦》
 
 #### Graduate Engineer
 - **Kaveh**(Architects)
