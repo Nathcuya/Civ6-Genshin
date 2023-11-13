@@ -554,6 +554,7 @@
 - **Kaveh**(Architects)
      - **激活效果**:为奇观建设赠予500点生产力（2次数）.
 - **Mika**(Surveyor)
+    - **激活效果**:立即在该区域建造工厂和工作坊（1次数）;工厂+2生产力.
 - **Yoimiya**
 
 #### Big businessman
