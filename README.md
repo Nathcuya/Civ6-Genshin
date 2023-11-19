@@ -648,7 +648,7 @@
         - **苛捐**:All builders produced in this city will +1 build count.
         - **登楼**:此城市的每个社区与特色区域+2住房。此城市的每个运河与堤坝+1宜居度.
         - **调律**:每个未改良的地貌可向该城市提供+5金币.该城市中与未改良地貌相邻的单元格可获得+2魅力.
-        - **廉贞**:环境效应无法对此城市的改良设施、建筑与区域造成伤害.
+        - **廉贞**:Environmental effects cannot harm the city's improvements, buildings and areas.
 - 七星天权-**掩月天权**-凝光
     - 替代单位:金融家
     - 头衔
