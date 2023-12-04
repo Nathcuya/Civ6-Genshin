@@ -660,11 +660,11 @@
 - 月海总秘-**循循守月**-甘雨
     - 替代单位:总务官
     - 描述:
-        - **饮露**:城市中格位收获和移除地貌的产出+50%.
-        - **获麟**:城市中生产的开拓者不计入人口.
-        - **云行**:城市的增长+20%.以此处为终点的贸易路线（属于玩家）为起源城市+2食物.
-        - **西狩**:此城市可从附近所有拥有区域加成的工业区处获得生产力，而不仅是从首个建成的工业区处获得.
-        - **折草**:生产单位所需战略资源花费减少80%.
+        - **饮露**:The output of harvesting and removing landforms in the city is +50%.
+        - **获麟**:Pioneers produced in cities are not counted in the population.
+        - **云行**:Growth of the city +20%. Trade routes ending here (belonging to the player) add +2 food to the originating city.
+        - **西狩**:The city can gain productivity from all nearby industrial zones that have a regional bonus, not just from the first industrial zone that was built.
+        - **折草**:Reduction of 80 per cent in the cost of strategic resource requirements for production units.
 
 #### 特殊单位
 - **千岩军**
