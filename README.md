@@ -658,7 +658,7 @@
         - **千金掷**:Cities get new cells faster. +3 gold per turn for each foreign trade route that passes through the city.
         - **储之千日,用之一刻**:Cities can purchase areas with gold.
 - 月海总秘-**循循守月**-甘雨
-    - 替代单位:总务官
+    - 替代单位:General Affairs Officer
     - 描述:
         - **饮露**:The output of harvesting and removing landforms in the city is +50%.
         - **获麟**:Pioneers produced in cities are not counted in the population.
@@ -666,7 +666,7 @@
         - **西狩**:The city can gain productivity from all nearby industrial zones that have a regional bonus, not just from the first industrial zone that was built.
         - **折草**:Reduction of 80 per cent in the cost of strategic resource requirements for production units.
 
-#### 特殊单位
+#### Special units
 - **千岩军**
     - 替代单位:枪兵
     - **特色能力**
