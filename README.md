@@ -654,9 +654,9 @@
     - 头衔
         - **天权崩玉**:Each citizen in the city brings in 3 gold coins per turn.
         - **星移势转**:The proximity bonus to commercial centers and ports in cities is doubled.
-        - **奇石珠宝录**:城市中每有一个奢侈资源,则每回合增加5金币收入.
-        - **千金掷**:城市获得新单元格的速度加快.经过城市的每条外国贸易路线每回合产出的金币+3.
-        - **储之千日,用之一刻**:城市可使用金币购买区域.
+        - **奇石珠宝录**:For each Luxury Resource in the city, the income is increased by 5 gold per turn.
+        - **千金掷**:Cities get new cells faster. +3 gold per turn for each foreign trade route that passes through the city.
+        - **储之千日,用之一刻**:Cities can purchase areas with gold.
 - 月海总秘-**循循守月**-甘雨
     - 替代单位:总务官
     - 描述:
