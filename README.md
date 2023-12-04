@@ -705,15 +705,15 @@
 - Qingxu Pool
 - Lingju Pass
 - Mt. TianHeng
-- 翠玦坡
-- 南天门
-- 天遒谷
+- Cuijue Slope
+- Nantianmen
+- Tianqiu Valley
 - 华光林
 - 奥藏山
-- 琥牢山
+- Mt. Hulao
 - 庆云顶
-- 绝云间
-- 渌华池
+- Jueyun Karst
+- Luhua Pool
 - Yaogguang Shoal
 - Wuwang Hill
 
