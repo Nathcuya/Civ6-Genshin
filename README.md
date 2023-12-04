@@ -642,7 +642,7 @@
     
 #### Governor
 - 七星玉衡-**霆霓快雨**-刻晴
-    - 替代单位:测量师
+    - 替代单位:Surveyor
     - 头衔:
         - **雷厉**:+30% productivity When building areas in cities.
         - **苛捐**:All builders produced in this city will +1 build count.
@@ -650,10 +650,10 @@
         - **调律**:Each unimproved landform provides +5 gold to the city. Cells in the city adjacent to unimproved landscapes gain +2 Charisma.
         - **廉贞**:Environmental effects cannot harm the city's improvements, buildings and areas.
 - 七星天权-**掩月天权**-凝光
-    - 替代单位:金融家
+    - 替代单位:Financier
     - 头衔
-        - **天权崩玉**:城市中每位公民每回合可带来3金币的收入.
-        - **星移势转**:城市中商业中心和港口的相邻加成加倍.
+        - **天权崩玉**:Each citizen in the city brings in 3 gold coins per turn.
+        - **星移势转**:The proximity bonus to commercial centers and ports in cities is doubled.
         - **奇石珠宝录**:城市中每有一个奢侈资源,则每回合增加5金币收入.
         - **千金掷**:城市获得新单元格的速度加快.经过城市的每条外国贸易路线每回合产出的金币+3.
         - **储之千日,用之一刻**:城市可使用金币购买区域.
