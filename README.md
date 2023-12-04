@@ -700,7 +700,7 @@
 - Guilin Plains
 - Dunyu Ruins
 - Dihua Marsh
-- 明蕴镇
+- Mingyun Village
 - Qingce Village
 - Qingxu Pool
 - Lingju Pass
@@ -708,7 +708,7 @@
 - Cuijue Slope
 - Nantianmen
 - Tianqiu Valley
-- 华光林
+- Huaguang Stone Forest
 - Mt.Aocang
 - Mt. Hulao
 - Qingyun Peak
