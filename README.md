@@ -686,7 +686,7 @@
 - 孤云阁-兵马俑相似
     - 描述:岩王帝君封印旋涡之魔神奥赛尔的地方.
     - 特色能力
-        **岩枪**:目前所有单位获得1级强化升级,军队单位攻击力+5.
+        **岩枪**:Currently all units receive 1 level of reinforcement upgrade, and army units have +5 attack power.
 - 层岩巨渊-博尔戈尔山
     - 描述:
     - 特色能力
