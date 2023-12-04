@@ -709,9 +709,9 @@
 - Nantianmen
 - Tianqiu Valley
 - 华光林
-- 奥藏山
+- Mt.Aocang
 - Mt. Hulao
-- 庆云顶
+- Qingyun Peak
 - Jueyun Karst
 - Luhua Pool
 - Yaogguang Shoal
