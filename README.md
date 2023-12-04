@@ -690,7 +690,7 @@
 - 层岩巨渊-博尔戈尔山
     - 描述:
     - 特色能力
-        **藏金**:每回合奖励6点铁.为6个单元格内的所有城市提供+4信仰值.必须建在山脉上.
+        **藏金**:Bonus 6 points of iron per turn. Provides +4 Faith to all cities within 6 cells. Must be built on a mountain range.
 
 #### 城市名称
 **主城**
