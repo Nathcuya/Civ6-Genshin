@@ -698,12 +698,12 @@
 
 **城池**
 - Guilin Plains
-- 遁玉陵
-- 荻花洲
+- Dunyu Ruins
+- Dihua Marsh
 - 明蕴镇
-- 轻策庄
+- Qingce Village
 - Qingxu Pool
-- 灵矩关
+- Lingju Pass
 - Mt. TianHeng
 - 翠玦坡
 - 南天门
@@ -715,7 +715,7 @@
 - 绝云间
 - 渌华池
 - Yaogguang Shoal
-- 无妄坡
+- Wuwang Hill
 
 #### 特殊建筑
 - 七天神像-岩
