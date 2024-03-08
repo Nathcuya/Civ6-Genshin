@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>GenshinImpact</Name>
+    <Guid>c501dd8c-88e7-4b46-83d9-5bd42e3dc0f3</Guid>
+    <ProjectGuid>ef7c8c8b-eae5-4b86-baff-90fce33c1fcb</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This is a brief description of the mod.</Teaser>
+    <Description>This is a mod pack for the Seven Kingdoms of Tivat.</Description>
+    <Authors>Nathcuya Alexander</Authors>
+    <SpecialThanks>Hemmelfort</SpecialThanks>
+    <AffectsSavedGames>false</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Genshin</AssemblyName>
+    <RootNamespace>Genshin</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+  <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
+</Associations>]]></AssociationData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Date" />
+    <Folder Include="GameDate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GameDate\MUNDANE_LIYUE_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GameDate\MUNDANE_LIYUE_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GameDate\MUNDANE_LIYUE_Buildings.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GameDate\MUNDANE_LIYUE_Civilization.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GameDate\MUNDANE_LIYUE_Leaders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GameDate\MUNDANE_LIYUE_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GameDate\MUNDANE_LIYUE_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
