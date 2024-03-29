@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- MUNDANE_LIYUE_UniTS -->
+<?xml version="1.0" encoding="UTF-8" ?>
 <!-- Author: Nathcuya Alexander -->
-<!-- DateCreated: 11/5/2023 4:56:16 PM -->
+<!-- DateCreated: 03/29/24 14:01:18 Fri -->
 <GameData>
-
+	<Types>
+		<Row Type="QIANYANJUN" Kind="KIND_UNIT"/>
+	</Types>
+	<Units>
+		<Row UnitType="QIANYANJUN" Combat="25" Name="千岩军" Description="「千岩牢固，重嶂不移，干城戎甲，靖妖闲邪.」" BaseMoves="0" BaseSightRange="0" Cost="1"/>
+	</Units>
 </GameData>
